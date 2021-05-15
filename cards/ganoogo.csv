@@ -1,0 +1,83 @@
+Type,Description,Limit,Quantity
+Negate,Negate effect of a card,use after a card has been played,4
+Negate,Negate effect of a card,use after a card has been played,
+Negate,Negate effect of a card,use after a card has been played,
+Negate,Negate effect of a card,use after a card has been played,
+Negate,Both players must reroll,use after roll in conflict,2
+Negate,Both players must reroll,use after roll in conflict,
+Negate,Player must reroll,use after roll,3
+Negate,Player must reroll,use after roll,
+Negate,Player must reroll,use after roll,
+Die Modifier,Return die to play in starting position,anytime after a die has been removed from play,4
+Die Modifier,Return die to play in starting position,anytime after a die has been removed from play,
+Die Modifier,Return die to play in starting position,anytime after a die has been removed from play,
+Die Modifier,Return die to play in starting position,anytime after a die has been removed from play,
+Die Modifier,Return die to play in current position with original HP,immediately after a die is elimited,3
+Die Modifier,Return die to play in current position with original HP,immediately after a die is elimited,
+Die Modifier,Return die to play in current position with original HP,immediately after a die is elimited,
+Die Modifier, +1 die for conflict (remove die with lowest value when summing the total),use before conflict,2
+Die Modifier, +1 die for conflict (remove die with lowest value when summing the total),use before conflict,
+Die Modifier, +1 die for 1 roll (remove the die with the lowest value when summing the total),before any roll,2
+Die Modifier, +1 die for 1 roll (remove the die with the lowest value when summing the total),before any roll,
+Die Modifier, -1 die for 1 roll,before any roll,2
+Die Modifier, -1 die for 1 roll,before any roll,
+Die Modifier, +1 to any die's HP on the board,anytime,3
+Die Modifier, +1 to any die's HP on the board,anytime,
+Die Modifier, +1 to any die's HP on the board,anytime,
+Die Modifier, +2 to any die's HP on the board,anytime,3
+Die Modifier, +2 to any die's HP on the board,anytime,
+Die Modifier, +2 to any die's HP on the board,anytime,
+Luck,Draw 2 cards,anytime,3
+Luck,Draw 2 cards,anytime,
+Luck,Draw 2 cards,anytime,
+Luck,Draw 3 cards,anytime,5
+Luck,Draw 3 cards,anytime,
+Luck,Draw 3 cards,anytime,
+Luck,Draw 3 cards,anytime,
+Luck,Draw 3 cards,anytime,
+Luck,Draw 4 cards,anytime,1
+Luck,Draw 5 cards,anytime,1
+Luck,Lower roll wins,during conflict,1
+Luck,Lower roll wins,before conflict,2
+Luck,Lower roll wins,before conflict,
+Luck,Player loses a turn,anytime,1
+Luck,Player loses a turn,use before player begins turn,2
+Luck,Player loses a turn,use before player begins turn,
+Luck,Flip a token.<br/> Heads: Higher roll wins<br/> Tails: Lower roll wins,use during conflict,2
+Luck,Flip a token.<br/> Heads: Higher roll wins<br/> Tails: Lower roll wins,use during conflict,
+Luck,Flip a token.<br/> Heads: +1 to die's HP <br/> Tails: -1 to die's HP,anytime,1
+Luck,Flip a token.<br/> Heads: +3 to roll<br/> Tails: -3 to roll,use after roll,1
+Luck,Flip a token.<br/> Heads: +4 to roll<br/> Tails: -4 to roll,before roll,1
+Luck,Flip a token.<br/> Heads: +4 to roll<br/> Tails: -4 to roll,anytime,1
+Luck,Flip a token.<br/> Heads: +5 to roll<br/> Tails: -5 to roll,before roll,1
+Luck,Flip a token.<br/> Heads: +6 to roll<br/> Tails: -6 to roll,before roll,1
+Roll Modifier, +4 to player's roll,anytime,1
+Roll Modifier, +3 to player's roll,anytime,1
+Roll Modifier, +3 to player's roll,use after roll,3
+Roll Modifier, +3 to player's roll,use after roll,
+Roll Modifier, +3 to player's roll,use after roll,
+Roll Modifier, +3 to player's roll,use before roll,3
+Roll Modifier, +3 to player's roll,use before roll,
+Roll Modifier, +3 to player's roll,use before roll,
+Roll Modifier, +1 to player's roll,anytime,1
+Roll Modifier, +1 to player's roll,use after roll,1
+Roll Modifier, +1 to player's roll,use before roll,1
+Roll Modifier, +2 to player's roll for 1 conflict,use before conflict,3
+Roll Modifier, +2 to player's roll for 1 conflict,use before conflict,
+Roll Modifier, +2 to player's roll for 1 conflict,use before conflict,
+Roll Modifier, +1 to player's roll for 1 conflict,use before conflict,1
+Roll Modifier, +2 to player's roll,anytime,2
+Roll Modifier, +2 to player's roll,anytime,
+Roll Modifier, +2 to player's roll,use after roll,2
+Roll Modifier, +2 to player's roll,use after roll,
+Roll Modifier, +2 to player's roll,use before roll,4
+Roll Modifier, +2 to player's roll,use before roll,
+Roll Modifier, +2 to player's roll,use before roll,
+Roll Modifier, +2 to player's roll,use before roll,
+Roll Modifier, -1 to player's roll,anytime,3
+Roll Modifier, -1 to player's roll,anytime,
+Roll Modifier, -1 to player's roll,anytime,
+Roll Modifier, -2 to player's roll,use before roll,1
+Roll Modifier, -2 to player's roll,anytime,2
+Roll Modifier, -2 to player's roll,anytime,
+Roll Modifier, -3 to player's roll,use before player's roll,1
