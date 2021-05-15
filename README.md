@@ -1,4 +1,4 @@
-##Ganoogo
+# Ganoogo
 Battle royale dice battler for 2-4 players
 
 ## Board
