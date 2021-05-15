@@ -1,4 +1,5 @@
-#Ganoogo
+##Ganoogo
+Battle royale dice battler for 2-4 players
 
 ##Players
 2-4
@@ -17,15 +18,17 @@ Each player is dealt five cards to start with.
 
 ##Starting Position:
 Place the appropriately colored die as seen here.
- ![Starting](./images/instructions1.png)
 
+![Starting](./images/instructions1.png)
 
 ##Die:
 Ganoogo Overlord(1) – Starts on the Ganoogo square and cannot leave the Ganoogo square unless all other die have been eliminated. It has 2 HP. 
 Ganoogo Minions(3) – Starts on appropriate squares with appropriate HPs. Can move freely.
 
 ##Movement Phase
+
 ![Moving](./images/instructions2.png)
+
 Players start off each turn by drawing a card and rolling 2 six sided die.
 
 The number the player rolls is the amount of Movement Points (MP) the player receives for the turn.
