@@ -22,9 +22,13 @@ Place the appropriately colored die as seen here.
 ![Starting](../images/instructions1.png)
 
 
-## Die:
-Ganoogo Overlord(1) – Starts on the Ganoogo square and cannot leave the Ganoogo square unless all other die have been eliminated. It has 2 HP.
-Ganoogo Minions(3) – Starts on appropriate squares with appropriate HPs. Can move freely.
+## Die
+### Ganoogo Overlord (1) 
+Starts on the Ganoogo square and cannot leave the Ganoogo square unless 
+all other die have been eliminated. It has 2 HP.
+
+### Ganoogo Minions(3)
+Starts on appropriate squares with appropriate HPs. Can move freely.
 
 ## Movement Phase
 
