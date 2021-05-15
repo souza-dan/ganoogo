@@ -1,5 +1,4 @@
 ##Ganoogo
-Battle royale dice battler for 2-4 players
 
 ##Players
 2-4
@@ -9,8 +8,8 @@ The player’s goal is to be the last player standing. A player can be eliminate
 
 ##Terminology
 HP – Hit Points – A piece’s face value. A die is removed from play when its HP reaches 0.
-MP – Movement Points - MP is used to either move a piece 1 space or engage in 1 conflict roll. 5 MP can be used to draw an additional card. A player gains 
-Ganoogo – Sacred battle initiated when a player’s die reaches an opponent’s Ganoogo square. 
+MP – Movement Points - MP is used to either move a piece 1 space or engage in 1 conflict roll. 5 MP can be used to draw an additional card. A player gains
+Ganoogo – Sacred battle initiated when a player’s die reaches an opponent’s Ganoogo square.
 
 ##How to Play
 Players roll to see who goes first and play goes clockwise.
@@ -18,16 +17,15 @@ Each player is dealt five cards to start with.
 
 ##Starting Position:
 Place the appropriately colored die as seen here.
+![Starting](../images/instructions1.png)
 
-![Starting](./images/instructions1.png)
 
 ##Die:
-Ganoogo Overlord(1) – Starts on the Ganoogo square and cannot leave the Ganoogo square unless all other die have been eliminated. It has 2 HP. 
+Ganoogo Overlord(1) – Starts on the Ganoogo square and cannot leave the Ganoogo square unless all other die have been eliminated. It has 2 HP.
 Ganoogo Minions(3) – Starts on appropriate squares with appropriate HPs. Can move freely.
 
 ##Movement Phase
-
-![Moving](./images/instructions2.png)
+![Moving](../images/instructions2.png)
 
 Players start off each turn by drawing a card and rolling 2 six sided die.
 
